@@ -12,6 +12,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-db0bb9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariane_mireli)
 [![E-mail](https://img.shields.io/badge/-Gmail-c72926?style=for-the-badge&logo=gmail&logoColor=white)](mirelioliveira2006@gmail.com)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marianemirelii&theme=midnight-purple&show_icons=true)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
 
